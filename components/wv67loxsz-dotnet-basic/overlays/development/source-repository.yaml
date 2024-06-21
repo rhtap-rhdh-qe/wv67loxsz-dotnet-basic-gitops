@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wv67loxsz-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wv67loxsz-dotnet-basic
